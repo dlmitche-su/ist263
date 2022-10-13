@@ -1,0 +1,16 @@
+a:visited {
+    color: #6e1c24;
+}
+
+a:hover {
+    color: #4bb5fb;
+}
+body {
+        font-size: 1em;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        background-color: #e56717;
+    }
+p {
+    color: black;
+}
+
