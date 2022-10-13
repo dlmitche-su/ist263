@@ -5,12 +5,34 @@ a:visited {
 a:hover {
     color: #4bb5fb;
 }
+
+h1 {
+    background-color: #53565b;
+}
+
 body {
         font-size: 1em;
         font-family:Verdana, Geneva, Tahoma, sans-serif;
         background-color: #e56717;
     }
+
+nav {
+    border: 2px solid #ffffff;
+    margin: 10px;
+    padding: 5px; 
+    background-color: #a0522d;
+    margin-bottom: 30px;
+}
+
 p {
     color: black;
+}
+
+nav a {
+    color: #b9f2ff;
+}
+
+nav a:hover {
+    background-color: #b9f2ff;
 }
 
