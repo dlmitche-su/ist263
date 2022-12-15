@@ -1,18 +1,12 @@
 * {
     box-sizing: border-box;
 }
-a:visited {
-    color: #6e1c24;
-}
 a:hover {
     color: #4bb5fb;
 }
-.header {
-    padding: 60px;
-    text-align: center;
-    font-size: 30px;
+a:visited {
+    color: #6e1c24;
 }
-
 .pic {
     float: left;
     width: 33.33%;
