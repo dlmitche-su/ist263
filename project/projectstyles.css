@@ -17,6 +17,7 @@ a:hover, a:active{
     width: 33.33%;
     padding: 5px;
     justify-content: space-between;
+    flex-basis: 40%;
 }
 
 .images::after {
@@ -58,4 +59,8 @@ nav {
     position: static;
     width: auto;
     height: auto;
+}
+.p{
+    font-size: 20px;
+  padding-left: 20px;
 }
