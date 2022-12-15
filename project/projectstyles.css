@@ -1,6 +1,16 @@
 * {
     box-sizing: border-box;
 }
+a:visited {
+    color: #6e1c24;
+}
+a:hover {
+    color: #4bb5fb;
+}
+.h1 {
+    font-size: 1em;
+    text-align: center;
+}
 
 .pic {
     float: left;
