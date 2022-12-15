@@ -1,11 +1,16 @@
 * {
     box-sizing: border-box;
 }
-a:hover {
-    color: #4bb5fb;
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
 }
 a:visited {
     color: #6e1c24;
+}
+a:hover {
+    color: #4bb5fb;
 }
 .pic {
     float: left;
