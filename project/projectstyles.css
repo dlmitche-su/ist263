@@ -49,13 +49,13 @@ nav {
     width: 1px;
     height: 1px;
     overflow: hidden;
-  }
-  .skip:focus {
+}
+.skip:focus {
     position: static;
     width: auto;
     height: auto;
-  }
-  .text {
+}
+.text {
     font-size: 20px;
     padding-left: 20px;
-  }
+}
