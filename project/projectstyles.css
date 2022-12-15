@@ -17,7 +17,8 @@ a:hover, a:active{
     width: 33.33%;
     padding: 5px;
     justify-content: space-between;
-    flex-basis: 40%;
+    flex-basis: 33.33%;
+    max-width: 33.33%;
 }
 
 .images::after {
