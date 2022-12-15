@@ -7,9 +7,10 @@ a:visited {
 a:hover {
     color: #4bb5fb;
 }
-.h1 {
-    font-size: 1em;
+.header {
+    padding: 60px;
     text-align: center;
+    font-size: 30px;
 }
 
 .pic {
