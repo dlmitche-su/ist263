@@ -38,7 +38,10 @@ nav {
     margin-bottom: 10px;
     justify-content: space-around;
 }
-
+.text {
+    font-size: 20px;
+    padding-left: 20px;
+}
 .oregon{
     border-radius: 50%;
 }
@@ -54,8 +57,4 @@ nav {
     position: static;
     width: auto;
     height: auto;
-}
-.text {
-    font-size: 20px;
-    padding-left: 20px;
 }
